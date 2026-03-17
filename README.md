@@ -20,29 +20,8 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```javascript
-const vivek = {
-  name:       "Vivek Sharma",
-  role:       "Web Developer 🌐",
-  location:   "Ranchi, Jharkhand, India 🇮🇳",
-  education:  "BCA @ Jharkhand Rai University (2023–Present)",
-  email:      "svivek7318@gmail.com",
-  github:     "github.com/VIKK173",
-  linkedin:   "linkedin.com/in/vivek9153",
-
-  skills: {
-    frontend:  ["HTML5", "CSS3", "JavaScript ES6", "React.js", "Tailwind CSS"],
-    backend:   ["Node.js", "Express.js", "REST APIs"],
-    languages: ["JavaScript", "C", "C++", "Python"],
-    tools:     ["Git", "GitHub", "VS Code", "Sublime Text"],
-  },
-
-  currentFocus:  "Building full-stack web applications 🔥",
-  lookingFor:    "Web Developer roles & freelance projects 🚀",
-  funFact:       "I turn ☕ coffee into clean code!",
-};
-```
+Motivated and detail-oriented IT professional with strong skills in front-end web development (HTML, CSS, JavaScript, React). Eager
+to contribute to a dynamic team, enhance user experiences, and grow as a full-stack developer.
 
 ---
 
