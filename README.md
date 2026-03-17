@@ -67,16 +67,6 @@ to contribute to a dynamic team, enhance user experiences, and grow as a full-st
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VIKK173&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
