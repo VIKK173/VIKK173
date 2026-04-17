@@ -4,20 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=C8FF00&background=00000000&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Node.js;Building+Cool+Web+Experiences+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivek9153-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek9153/)
-[![Gmail](https://img.shields.io/badge/Gmail-svivek7318@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svivek7318@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-VIKK173-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIKK173)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-C8FF00?style=for-the-badge&logo=firefox&logoColor=black)](https://github.com/VIKK173)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=VIKK173&color=C8FF00&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
 
 ## 🧑‍💻 About Me
 Motivated and detail-oriented IT professional with strong skills in front-end web development (HTML, CSS, JavaScript, React). Eager
@@ -67,20 +54,6 @@ to contribute to a dynamic team, enhance user experiences, and grow as a full-st
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🏆 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|:---:|:---|:---:|:---:|
-| **Shop-Max Clone** | Amazon-style e-commerce with dynamic cart & real-time JS | `JS` `CSS` `HTML` | [→ View](https://github.com/VIKK173/Shop-Max-Clone) |
-| **KEC International** | Corporate multi-section professional website | `HTML` | [→ View](https://github.com/VIKK173/KEC-INTERNATIONAL-PROJECT) |
-| **Watch E-Commerce** | Luxury watch store with mobile-first responsive design | `JS` `HTML` `CSS` | [→ View](https://github.com/VIKK173/E-COMMERCE) |
-| **Weather Dashboard** | Live weather via OpenWeatherMap REST API | `JS` `API` `CSS` | [→ View](https://github.com/VIKK173) |
-| **Grocery Store** | Cart management with DOM manipulation, no page reloads | `JS` `CSS` `DOM` | [→ View](https://github.com/VIKK173/GEROCERY-) |
-| **Music Player** | Custom audio player with HTML5 Audio API | `HTML5` `JS` `CSS` | [→ View](https://github.com/VIKK173/MUSIC-PLAYER) |
-
-</div>
 
 ---
 
