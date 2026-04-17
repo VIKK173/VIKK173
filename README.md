@@ -18,24 +18,11 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const vivek = {
-  name:       "Vivek Sharma",
-  role:       "Full Stack Web Developer",
-  location:   "Ranchi, Jharkhand 🇮🇳",
-  education:  "BCA — Jharkhand Rai University (2023–Present)",
+Hi, I'm Vivek 👋
+A passionate Web Developer focused on building real-world applications.
+Currently learning Next.js and full-stack development, and working on a Home Service web app.
+I enjoy turning ideas into functional projects and aim to become a professional developer and start freelancing.
 
-  frontend:   ["React.js", "Next.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5", "CSS3"],
-  backend:    ["Node.js", "Express.js", "REST APIs", "Next.js API Routes"],
-  database:   ["MongoDB", "Mongoose ODM"],
-  auth:       ["JWT", "OTP Verification", "Role-Based Access Control (RBAC)"],
-  tools:      ["Git", "GitHub", "VS Code", "Vercel", "Postman"],
-  languages:  ["JavaScript", "C", "C++", "Python (basics)"],
-
-  currentFocus: "Building production-grade full-stack applications",
-  available:    true  // 🟢 Open to internships & full-time roles!
-};
-```
 
 - 🏗️ Experienced in building **end-to-end web platforms** with secure auth, payment integration & multi-role dashboards
 - ⚡ Passionate about writing **clean, scalable code** and crafting great user experiences
