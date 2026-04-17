@@ -19,6 +19,7 @@
 ## 👨‍💻 About Me
 
 Hi, I'm Vivek 👋
+
 A passionate Web Developer focused on building real-world applications.
 Currently learning Next.js and full-stack development, and working on a Home Service web app.
 I enjoy turning ideas into functional projects and aim to become a professional developer and start freelancing.
