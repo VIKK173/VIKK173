@@ -71,31 +71,49 @@ I build production-grade web applications with **React.js, Next.js, Node.js, and
 ### 🏠 ServiceHub — Home Services Booking Platform *(Final Year Project)*
 > **React.js · Next.js · Node.js · MongoDB · Tailwind CSS · JWT**
 
-A full-stack home services marketplace supporting **online payments, OTP verification, and 3 independent role-based portals** (Customer, Service Worker, Admin).
+A production-grade full-stack **home services marketplace** where customers can browse, book, and pay for services like plumbing, electrical work, cleaning, and carpentry.
 
-- 🔐 Secure multi-role JWT authentication with dedicated dashboards
-- 💳 Step-by-step booking flow: Category → Provider → OTP → Payment → Confirmation
-- 📊 Admin panel for managing workers, bookings, disputes & revenue analytics
-- 🗄️ MongoDB schema with Mongoose covering Users, Services, Bookings, Payments & Workers
+- 🔐 **Multi-role JWT auth** — 3 independent portals: Customer, Service Worker & Admin with strict RBAC
+- 🔄 **Step-by-step booking flow** — Category Selection → Provider Browse → OTP Verification → Payment → Confirmation
+- 💳 **Dual payment support** — Online payment gateway + Cash on Delivery (COD)
+- 📊 **Admin Dashboard** — Manage workers, monitor live bookings, handle disputes & view revenue analytics
+- 🗄️ **Robust MongoDB schema** — Mongoose ODM covering Users, Services, Bookings, Payments & Workers with population queries
+
+---
+
+### 🍔 Zomvik — Food Delivery Platform
+> **React.js · Next.js · Node.js · MongoDB · Tailwind CSS** &nbsp;|&nbsp; 🔗 [Live Demo](https://zomvik.space-z.ai)
+
+A full-stack **food delivery application** enabling users to browse restaurants, explore menus, and place orders with a seamless, intuitive experience.
+
+- 🔒 **Secure JWT auth** — signup, login, protected routes & persistent session management
+- 🔍 **Smart browsing** — cuisine filters, advanced search & real-time cart (add/remove, quantity, subtotal)
+- ⚡ **Next.js SSR** — server-side rendering for fast page loads, SEO-friendly & mobile-first design
+- 🛠️ **REST APIs** — Express.js + Node.js handling order processing, restaurant data & MongoDB schema
+
+---
+
+### 🤖 ResumeForge AI — AI-Powered Resume Builder & Analyzer
+> **React.js · Next.js · Node.js · MongoDB · Tailwind CSS · AI Integration** &nbsp;|&nbsp; 🔗 [Live Demo](https://anlyzresume.space-z.ai)
+
+An intelligent full-stack **resume builder and ATS analyzer** with AI-powered content generation, job matching, and performance tracking.
+
+- 🧠 **AI bullet rewriting** — enhances resume bullet points for maximum recruiter impact
+- 🎯 **Job description matching** — tailored improvement suggestions, keyword optimization & ATS match scores
+- 🖱️ **Drag-and-drop editor** — PDF export, premium templates & intuitive section management
+- 📈 **Pro analytics dashboard** — keyword insights, ATS compatibility metrics & resume performance tracking
 
 ---
 
 ### 👗 StyleVerse — Fashion E-Commerce Platform
 > **JavaScript · HTML5 · CSS3** &nbsp;|&nbsp; 🔗 [Live Demo](https://style-verse-psi.vercel.app)
 
-A fully responsive fashion storefront built **without any frameworks** — pure vanilla JS.
+A fully responsive fashion storefront built **entirely without frameworks** — pure vanilla JavaScript and DOM mastery.
 
-- 🛒 Real-time cart with add/remove, quantity controls & auto-updating totals
-- 🔍 Advanced filtering by category, price range & item type
-- 📱 Mobile-first responsive design with CSS Grid & Flexbox
-- ✨ Premium UI with smooth CSS transitions & hover animations
-
----
-
-### 🧑‍🎨 Portfolio Website
-> **HTML · CSS · JavaScript** &nbsp;|&nbsp; 🔗 [Live Demo](https://portfolio-new-seven-fawn.vercel.app)
-
-Personal developer portfolio showcasing projects, skills, and contact info.
+- 🛒 **Real-time cart** — add/remove items, quantity controls & auto-updating order totals with zero page reloads
+- 🔍 **Advanced filtering** — by category (Men, Women, Accessories), price range & item type
+- 📱 **Mobile-first design** — CSS Grid + Flexbox for pixel-perfect layout across all screen sizes
+- ✨ **Smooth UX** — CSS transitions, hover animations & optimized asset loading on Vercel
 
 ---
 
@@ -140,7 +158,7 @@ Personal developer portfolio showcasing projects, skills, and contact info.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek9153)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:svivek7318@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-new-seven-fawn.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portvikk.space-z.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIKK173)
 
 </div>
@@ -158,3 +176,4 @@ Personal developer portfolio showcasing projects, skills, and contact info.
 *⭐ If you find my work useful, please consider starring my repos — it keeps me motivated!*
 
 </div>
+---
